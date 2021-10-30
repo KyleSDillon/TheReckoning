@@ -1,5 +1,5 @@
 # TheReckoning
-My First Game for OLC Workshop
+
 Day 4:
 All of the work that I have done so far has been in Twine and writing out the storyline and choices for players out on notecards. I found this “mapping” out of the story and possible pathways for players to choose so much more extensive than I anticipated. At this point, I have almost finished all of the Parent avatar side with the Teacher avatar side still to go. Thinking of all of the possible responses players could choose that determine the dialogue and final outcome of the game is quite exhausting and I have had to narrow my scope a quite a bit. I look forward to expanding these choices, dialogues, and outcomes in the future. Working with notecards has helped me streamline the creation process because I visually place each notecard in a visual order and refer to any previous notecards that I need. This was too difficult doing in Twine as I found myself needing to refer back to other screens and trying to remember the overall pathways.
 
